@@ -1,0 +1,1 @@
+To run the program you must run the server python file in the terminal, then start the two client python files in their own separate terminals. You should be able to enter the username in the client terminal then be able to send and receive messages. The server terminal will alert you when someone enters or leaves the server.
